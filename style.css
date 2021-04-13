@@ -1,0 +1,21 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo{
+    background-color: blueviolet;
+    color: cornsilk;
+    padding: 15px;
+    border: pink solid 5px;
+}
+
+canvas{
+    background-color: blueviolet;
+    border: pink solid 5px;
+
+}
